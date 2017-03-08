@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1486866544 source:d:\development\powerset\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+
+1486943240 source:d:\development\alg assignment3\powerset\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+
